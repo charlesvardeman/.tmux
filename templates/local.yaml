@@ -1,0 +1,11 @@
+session_name: local
+start_directory: ~/
+windows:
+  - window_name: tasks
+    layout: tiled
+    panes:
+    - task sync; clear; task -home
+    - 
+    - 
+    - 
+    focus: true

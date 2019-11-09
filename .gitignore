@@ -1,0 +1,15 @@
+.vimcache
+plugins/*
+!plugins/tpm
+.*.swp
+*.pyc
+*.pyo
+.DS_Store
+tags
+.ropeproject
+*.actual
+sites/*/settings*.php
+sites/*/files
+sites/*/private
+.vimcache
+.idea

@@ -1,0 +1,10 @@
+session_name: dashboard
+start_directory: ~/
+windows:
+  - window_name: live
+    layout: tiled
+    panes:
+    - htop
+    - ctop
+    -
+    -

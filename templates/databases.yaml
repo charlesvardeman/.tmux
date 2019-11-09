@@ -1,0 +1,11 @@
+session_name: databases
+windows:
+  - window_name: postgres
+    focus: true
+    panes:
+    - cd ~/Work/mine/postgres-docker/code; clear
+    - cd ~/Work/mine/postgres-docker/code; clear
+  - window_name: mysql
+    panes:
+    - cd ~/Work/mine/mysql-docker/code; clear
+    - cd ~/Work/mine/mysql-docker/code; clear

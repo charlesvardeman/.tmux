@@ -1,0 +1,16 @@
+session_name: "${PROJECT}"
+start_directory: "${DIR}"
+windows:
+  - window_name: code
+    layout: even-vertical
+    focus: true
+    panes:
+      - shell_command:
+        - nvim
+        focus: true
+  - window_name: docker
+    layout: even-vertical
+    panes:
+      - pane
+      - pane
+      - pane
